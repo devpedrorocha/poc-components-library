@@ -1,0 +1,5 @@
+{
+    "button": {
+        "path": "src/button/Button.tsx"
+    },
+}
